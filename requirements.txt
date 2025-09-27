@@ -10,3 +10,4 @@ requests
 Flask
 gunicorn
 beautifulsoup4
+selenium
